@@ -8,9 +8,12 @@ Official implementation for **CIPhy:Causal Intervention with Physical Confounder
 
 If you find this paper helpful, we are more than happy if you can cite our paper :-)
 
-> @inproceedings{hu2022ciphy,
->   title={CIPhy:Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference},
->   author={Hu, Zhizhang and Yu, Tong and Zhang, Ruiyi and Pan, Shijia},
->   booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
->   doi={10.1145/3560905.3568304},
->   year={2022} }
+```
+@inproceedings{hu2022ciphy,
+ title={CIPhy:Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference},
+ author={Hu, Zhizhang and Yu, Tong and Zhang, Ruiyi and Pan, Shijia},
+ booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
+ doi={10.1145/3560905.3568304},
+ year={2022} 
+ }
+```
